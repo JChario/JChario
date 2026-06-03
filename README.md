@@ -14,6 +14,7 @@ Building scalable enterprise systems by day.
 Designing AI-powered products by night.
 
 🇬🇷 Greece  
+🌐 https://jcharitos.gr  
 🌐 https://jnssoftware.com  
 💼 https://linkedin.com/in/johncharitos  
 📩 i.charitos@jnssoftware.com  
